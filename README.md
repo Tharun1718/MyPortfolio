@@ -1,8 +1,8 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+A simple portfolio template built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://github.com/Tharun1718/MyPortfolio/)
 
 [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
