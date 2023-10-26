@@ -1,60 +1,60 @@
-const logotext = "JOHN";
+const logotext = "THARUN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Tharun Manogaran",
+    description: "I’m Tharun Manogaran Full stack devloper,currently working in India",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Tharun Manogaran",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Creative and curious software developer constantly seeking out innovative solutions to everyday problems",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme: "Dedicated and motivated software engineer with a year of hands on experience on building web and mobile applications. I am committed to continuously expanding my technical expertise and creative problem-solving skills in the realm of software development",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Software Engineer",
+        where: "Techfinite Systems",
+        date: "2022-2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Process Associate",
+        where: "Genisys",
+        date: "2019-2020",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "B.E.Civil Engineering",
+        where: "PSG College of Technology",
+        date: "2014-2018",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "Djano",
-        value: 85,
-    },
-    {
         name: "Javascript",
-        value: 80,
+        value: 85,
     },
     {
         name: "React",
+        value: 70,
+    },
+    {
+        name: "Python",
+        value: 70,
+    },
+    {
+        name: "Node",
         value: 60,
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Sql",
+        value: 80,
     },
 ];
 
@@ -73,72 +73,72 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://plus.unsplash.com/premium_photo-1673515243090-649c650982eb?auto=format&fit=crop&q=80&w=1470&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "If you want to see the sunshine, you have to weather the storm",
+        link: "https://fancy-griffin-b039d3.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "Once a year go somewhere you have never been before",
+        link: "https://cerulean-hotteok-4f4a45.netlify.app/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.pexels.com/photos/4809620/pexels-photo-4809620.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        description: "Shopping is cheaper than therapy",
+        link: "https://frabjous-squirrel-7d6c58.netlify.app/",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.pexels.com/photos/7234219/pexels-photo-7234219.jpeg?auto=compress&cs=tinysrgb&w=600",
+        description: "Movies are like magic bricks",
+        link: "https://admirable-clafoutis-c28860.netlify.app/movies",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1572061485545-9399b66acedd?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8dHVybiUyMHRoZSUyMHBhZ2V8ZW58MHx8MHx8fDA%3D",
+        description: "One goal at a time and one page at a time makes life easier",
+        link: "https://capable-bubblegum-6bde26.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Soon to be uploaded",
         link: "#",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "manogarantharun@gmail.com",
+    YOUR_FONE: "9626161850",
+    description: "Your a click away from giving colours to your site",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +147,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/Tharun1718",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/tharun-manogaran-b2b599280/",
+    twitter: "https://twitter.com/manogarantharun",
 };
 export {
     meta,
